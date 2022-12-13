@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { View, StyleSheet } from "react-native";
-import Flip from "./FlipReursion";
+import Flip from "./FlipRecursive";
 
 export default function screen(props) {
   const [array, setArray] = useState({ arr: [] });
@@ -14,8 +14,8 @@ export default function screen(props) {
   }, []);
   return (
     <View style={Style.viewStyle}>
-      {array.arr.map((item) => {
-        return <Flip target={item} />;
+      {array.arr.map((item,index) => {
+        return <Flip target={item} test={true} key={index} />;
       })}
     </View>
   );
