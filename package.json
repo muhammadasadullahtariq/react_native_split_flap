@@ -1,0 +1,32 @@
+{
+  "name": "react-native-split-flap",
+  "version": "1.0.5",
+  "description": "Created Split Flap For React Native using build in Animated",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammadasadullahtariq/SplitFlapinReactNative.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "split",
+    "flap",
+    "split",
+    "flap",
+    "for",
+    "react",
+    "native",
+    "split",
+    "flap"
+  ],
+  "author": "Muhammad Asad Ullah Tariq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhammadasadullahtariq/SplitFlapinReactNative/issues"
+  },
+  "homepage": "https://github.com/muhammadasadullahtariq"
+}
