@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/muhammadasadullahtariq/SplitFlapinReactNative.git"
+    "url": "https://github.com/muhammadasadullahtariq/react_native_split_flap"
   },
   "keywords": [
     "react",
@@ -26,7 +26,7 @@
   "author": "Muhammad Asad Ullah Tariq",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/muhammadasadullahtariq/SplitFlapinReactNative/issues"
+    "url": "https://github.com/muhammadasadullahtariq/react_native_split_flap/issues"
   },
   "homepage": "https://github.com/muhammadasadullahtariq"
 }
